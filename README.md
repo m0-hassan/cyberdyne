@@ -1,6 +1,6 @@
 # Cyberdyne
 
-A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty terminal emulator. High-contrast neon accents on a deep indigo background, with full semantic token coverage and tuned highlights.
+A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty terminal emulator.
 
 ---
 
@@ -15,6 +15,7 @@ If you’re using VSCodium/Theia:
 Download the `.vsix` from the latest GitHub Release and run:
 ```bash
 code --install-extension cyberdyne-0.1.0.vsix
+```
 
 ---
 
@@ -33,31 +34,9 @@ code --install-extension cyberdyne-0.1.0.vsix
 
 ---
 
-## Recommended settings
-
-```jsonc
-"editor.bracketPairColorization.enabled": true,
-"editor.guides.bracketPairs": true,
-"editor.cursorSmoothCaretAnimation": "on",
-"workbench.list.smoothScrolling": true
-````
-
----
-
 ## Accessibility
 
-Cyberdyne aims for readable contrast on normal text and UI, with translucent highlights to avoid obscuring content. If anything looks muddy on your display, please open an issue with a screenshot and your OS/VS Code version.
-
----
-
-## Contributing
-
-Issues and PRs welcome!
-
-1. Clone the repo and open it in VS Code
-2. Press **F5** to launch the Extension Development Host
-3. Test across TS/JS, Python, HTML/CSS, Markdown, JSON
-4. Use **Developer: Inspect Editor Tokens and Scopes** (and the Semantic variant) to propose improvements
+Aims for readable contrast and translucent highlights. If anything looks off on your setup, please open an issue.
 
 ---
 
@@ -71,4 +50,4 @@ Ghostty © Mitchell Hashimoto and contributors.
 ## License
 
 * Theme code: MIT (see [LICENSE](./LICENSE))
-* Third-party: Ghostty MIT (see [ATTRIBUTION.md](./ATTRIBUTION.md)
+* Third-party: Ghostty MIT (see [ATTRIBUTION.md](./ATTRIBUTION.md))
