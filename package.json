@@ -26,10 +26,10 @@
   },
   "extensionKind": ["ui"],
   "scripts": {
+    "check": "vsce ls",
     "package": "vsce package",
     "publish:patch": "vsce publish patch",
     "publish:minor": "vsce publish minor",
-    "publish:major": "vsce publish major",
-    "verify": "vsce verify ."
+    "publish:major": "vsce publish major"
   }
 }

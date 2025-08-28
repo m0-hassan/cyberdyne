@@ -6,8 +6,15 @@ A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty termi
 
 ## Install
 
-- **From VS Code:** Open **Extensions** → search **Cyberdyne** → Install.
-- **From VSIX:** `Extensions` → `…` menu → **Install from VSIX…**
+### Open VSX (available now)
+If you’re using VSCodium/Theia:
+- Open the Extensions view and search **Cyberdyne**, or
+- Install from Open VSX: _link/badge will appear here after publish_
+
+### VSIX (manual install)
+Download the `.vsix` from the latest GitHub Release and run:
+```bash
+code --install-extension cyberdyne-0.1.0.vsix
 
 ---
 
