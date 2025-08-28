@@ -1,0 +1,35 @@
+{
+  "name": "cyberdyne",
+  "displayName": "Cyberdyne",
+  "description": "Ghostty Cyberdyne theme, adapted for VS Code.",
+  "version": "0.1.0",
+  "publisher": "m0-hassan",
+  "author": "Moe Hassan",
+  "license": "MIT",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "ghostty", "neon", "semantic tokens"],
+  "repository": { "type": "git", "url": "https://github.com/m0-hassan/cyberdyne" },
+  "bugs": { "url": "https://github.com/m0-hassan/cyberdyne/issues" },
+  "homepage": "https://github.com/m0-hassan/cyberdyne#readme",
+  "icon": "images/icon.png",
+  "galleryBanner": { "color": "#151144", "theme": "dark" },
+  "qna": "marketplace",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyberdyne",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberdyne-color-theme.json"
+      }
+    ]
+  },
+  "extensionKind": ["ui"],
+  "scripts": {
+    "package": "vsce package",
+    "publish:patch": "vsce publish patch",
+    "publish:minor": "vsce publish minor",
+    "publish:major": "vsce publish major",
+    "verify": "vsce verify ."
+  }
+}

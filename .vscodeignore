@@ -1,0 +1,23 @@
+# Exclude dev/editor files
+.vscode/**
+.vscode-test/**
+.gitignore
+gulptask.js
+vsc-extension-quickstart.md
+
+# Exclude repo metadata
+**/.git/**
+**/.github/**
+**/.vscode/**
+
+# Exclude build/deps
+**/node_modules/**
+
+# Exclude large/source assets (but keep published images)
+**/*.psd
+**/*.sketch
+**/scripts/**
+
+# Keep images used by README (do NOT ignore images/**)
+# If you have working files, put them under images/raw and ignore that:
+images/raw/**
