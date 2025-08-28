@@ -2,18 +2,36 @@
   "name": "cyberdyne",
   "displayName": "Cyberdyne",
   "description": "Ghostty Cyberdyne theme, adapted for VS Code.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "m0-hassan",
   "author": "Moe Hassan",
   "license": "MIT",
-  "engines": { "vscode": "^1.80.0" },
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "ghostty", "neon", "semantic tokens"],
-  "repository": { "type": "git", "url": "https://github.com/m0-hassan/cyberdyne" },
-  "bugs": { "url": "https://github.com/m0-hassan/cyberdyne/issues" },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "ghostty",
+    "neon",
+    "semantic tokens"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m0-hassan/cyberdyne"
+  },
+  "bugs": {
+    "url": "https://github.com/m0-hassan/cyberdyne/issues"
+  },
   "homepage": "https://github.com/m0-hassan/cyberdyne#readme",
   "icon": "images/icon.png",
-  "galleryBanner": { "color": "#151144", "theme": "dark" },
+  "galleryBanner": {
+    "color": "#151144",
+    "theme": "dark"
+  },
   "qna": "marketplace",
   "contributes": {
     "themes": [
@@ -24,7 +42,9 @@
       }
     ]
   },
-  "extensionKind": ["ui"],
+  "extensionKind": [
+    "ui"
+  ],
   "scripts": {
     "check": "vsce ls",
     "package": "vsce package",
