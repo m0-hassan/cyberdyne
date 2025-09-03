@@ -9,6 +9,9 @@ A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty termi
 
 ---
 
+<img width="1512" height="982" alt="image" src="https://github.com/user-attachments/assets/4113a0fb-2e58-4599-9c2a-344390292446" />
+
+
 ## Palette (highlights)
 
 | Role       | Color |
