@@ -13,14 +13,29 @@ A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty termi
 
 | Role       | Color |
 |------------|-------|
-| Background | `#151144` <span style="display:inline-block;width:1.1em;height:1.1em;background:#151144;border:1px solid #ccc;border-radius:2px;"></span> |
-| Foreground | `#00ff92` <span style="display:inline-block;width:1.1em;height:1.1em;background:#00ff92;border:1px solid #ccc;border-radius:2px;"></span> |
-| Selection  | `#454d96` <span style="display:inline-block;width:1.1em;height:1.1em;background:#454d96;border:1px solid #ccc;border-radius:2px;"></span> |
-| Cursor     | `#00ff9c` <span style="display:inline-block;width:1.1em;height:1.1em;background:#00ff9c;border:1px solid #ccc;border-radius:2px;"></span> |
+| Background | `#151144` <img src="https://singlecolorimage.com/get/151144/14x14" width="14" height="14" alt="#151144"> |
+| Foreground | `#00ff92` <img src="https://singlecolorimage.com/get/00ff92/14x14" width="14" height="14" alt="#00ff92"> |
+| Selection  | `#454d96` <img src="https://singlecolorimage.com/get/454d96/14x14" width="14" height="14" alt="#454d96"> |
+| Cursor     | `#00ff9c` <img src="https://singlecolorimage.com/get/00ff9c/14x14" width="14" height="14" alt="#00ff9c"> |
 
-**Terminal ANSI** (0–15)
+**Terminal ANSI (0–15)**
 
-`#080808`, `#ff8373`, `#00c172`, `#d2a700`, `#0071cf`, `#ff90fe`, `#6bffdd`, `#f1f1f1`, `#2e2e2e`, `#ffc4be`, `#d6fcba`, `#fffed5`, `#c2e3ff`, `#ffb2fe`, `#e6e7fe`, `#ffffff`
+<img src="https://singlecolorimage.com/get/080808/12x12" width="12" height="12" alt="#080808"> `#080808`,
+<img src="https://singlecolorimage.com/get/ff8373/12x12" width="12" height="12" alt="#ff8373"> `#ff8373`,
+<img src="https://singlecolorimage.com/get/00c172/12x12" width="12" height="12" alt="#00c172"> `#00c172`,
+<img src="https://singlecolorimage.com/get/d2a700/12x12" width="12" height="12" alt="#d2a700"> `#d2a700`,
+<img src="https://singlecolorimage.com/get/0071cf/12x12" width="12" height="12" alt="#0071cf"> `#0071cf`,
+<img src="https://singlecolorimage.com/get/ff90fe/12x12" width="12" height="12" alt="#ff90fe"> `#ff90fe`,
+<img src="https://singlecolorimage.com/get/6bffdd/12x12" width="12" height="12" alt="#6bffdd"> `#6bffdd`,
+<img src="https://singlecolorimage.com/get/f1f1f1/12x12" width="12" height="12" alt="#f1f1f1"> `#f1f1f1`,
+<img src="https://singlecolorimage.com/get/2e2e2e/12x12" width="12" height="12" alt="#2e2e2e"> `#2e2e2e`,
+<img src="https://singlecolorimage.com/get/ffc4be/12x12" width="12" height="12" alt="#ffc4be"> `#ffc4be`,
+<img src="https://singlecolorimage.com/get/d6fcba/12x12" width="12" height="12" alt="#d6fcba"> `#d6fcba`,
+<img src="https://singlecolorimage.com/get/fffed5/12x12" width="12" height="12" alt="#fffed5"> `#fffed5`,
+<img src="https://singlecolorimage.com/get/c2e3ff/12x12" width="12" height="12" alt="#c2e3ff"> `#c2e3ff`,
+<img src="https://singlecolorimage.com/get/ffb2fe/12x12" width="12" height="12" alt="#ffb2fe"> `#ffb2fe`,
+<img src="https://singlecolorimage.com/get/e6e7fe/12x12" width="12" height="12" alt="#e6e7fe"> `#e6e7fe`,
+<img src="https://singlecolorimage.com/get/ffffff/12x12" width="12" height="12" alt="#ffffff"> `#ffffff`
 
 ---
 
