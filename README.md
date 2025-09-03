@@ -2,10 +2,10 @@
 
 A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty terminal emulator.
 
-![extension](https://img.shields.io/badge/extension-darkblue?color=151144&labelColor=00ff92)
-![version](https://img.shields.io/visual-studio-marketplace/v/m0-hassan.cyberdyne?color=151144&labelColor=00ff92)
-![installs](https://img.shields.io/visual-studio-marketplace/i/m0-hassan.cyberdyne?color=151144&labelColor=00ff92)
-![rating](https://img.shields.io/visual-studio-marketplace/r/m0-hassan.cyberdyne?color=151144&labelColor=00ff92)
+![extension](https://img.shields.io/badge/extension-darkblue?color=151144)
+![version](https://img.shields.io/visual-studio-marketplace/v/m0-hassan.cyberdyne?color=151144)
+![installs](https://img.shields.io/visual-studio-marketplace/i/m0-hassan.cyberdyne?color=151144)
+![rating](https://img.shields.io/visual-studio-marketplace/r/m0-hassan.cyberdyne?color=151144)
 
 ---
 
