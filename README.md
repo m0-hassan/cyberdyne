@@ -2,31 +2,21 @@
 
 A dark VS Code theme adapted from the **Cyberdyne** palette in the Ghostty terminal emulator.
 
----
-
-## Install
-
-### Open VSX (available now)
-If you’re using VSCodium/Theia:
-- Open the Extensions view and search **Cyberdyne**, or
-- Install from Open VSX: _link/badge will appear here after publish_
-
-### VSIX (manual install)
-Download the `.vsix` from the latest GitHub Release and run:
-```bash
-code --install-extension cyberdyne-0.1.0.vsix
-```
+![extension](https://img.shields.io/badge/extension-darkblue)
+![version](https://img.shields.io/visual-studio-marketplace/v/m0-hassan.cyberdyne)
+![installs](https://img.shields.io/visual-studio-marketplace/i/m0-hassan.cyberdyne)
+![rating](https://img.shields.io/visual-studio-marketplace/r/m0-hassan.cyberdyne)
 
 ---
 
 ## Palette (highlights)
 
-| Role        | Color    |
-|-------------|----------|
-| Background  | `#151144` |
-| Foreground  | `#00ff92` |
-| Selection   | `#454d96` |
-| Cursor      | `#00ff9c` |
+| Role       | Color |
+|------------|-------|
+| Background | `#151144` <span style="display:inline-block;width:1.1em;height:1.1em;background:#151144;border:1px solid #ccc;border-radius:2px;"></span> |
+| Foreground | `#00ff92` <span style="display:inline-block;width:1.1em;height:1.1em;background:#00ff92;border:1px solid #ccc;border-radius:2px;"></span> |
+| Selection  | `#454d96` <span style="display:inline-block;width:1.1em;height:1.1em;background:#454d96;border:1px solid #ccc;border-radius:2px;"></span> |
+| Cursor     | `#00ff9c` <span style="display:inline-block;width:1.1em;height:1.1em;background:#00ff9c;border:1px solid #ccc;border-radius:2px;"></span> |
 
 **Terminal ANSI** (0–15)
 
